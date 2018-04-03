@@ -1,2 +1,2 @@
 # prueba
-Trabajo sobre uso de github
+Actualización del archivo readme
